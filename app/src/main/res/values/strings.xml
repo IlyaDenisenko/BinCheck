@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BinBank</string>
+    <string name="scheme_network">SCHEME/NETWORK</string>
+    <string name="brand">BRAND</string>
+    <string name="type">TYPE</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="bank">BANK</string>
+    <string name="country">COUNTRY</string>
+    <string name="edit_text_hint">Enter BIN/IIN</string>
+    <string name="find">Find</string>
+    <string name="request_history">Request history</string>
+    <string name="length">LENGTH</string>
+    <string name="luhn">LUHN</string>
+    <string name="location">latitude:%d, longitude:%d </string>
+
+    <string name="bin_not_found">BIN not found</string>
+    <string name="connection_error">Connection error</string>
+    <string name="min_digits_bin">The bin must contain at least 6 digits</string>
+</resources>

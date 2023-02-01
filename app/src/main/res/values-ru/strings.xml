@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BinBank</string>
+    <string name="scheme_network">SCHEME/NETWORK</string>
+    <string name="brand">BRAND</string>
+    <string name="type">TYPE</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="bank">BANK</string>
+    <string name="country">COUNTRY</string>
+    <string name="edit_text_hint">Введите BIN/IIN</string>
+    <string name="find">Найти</string>
+    <string name="request_history">История запросов</string>
+    <string name="length">LENGTH</string>
+    <string name="luhn">LUHN</string>
+    <string name="location">latitude:%d, longitude:%d </string>
+
+    <string name="bin_not_found">БИН не найден</string>
+    <string name="connection_error">Connection error</string>
+    <string name="min_digits_bin">БИН должен содержать не меньше 6 цифр</string>
+</resources>

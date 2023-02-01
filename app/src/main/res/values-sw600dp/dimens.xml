@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="text_size_default">17sp</dimen>
+    <dimen name="text_size_data">25sp</dimen>
+    <dimen name="main_layout_margin">15dp</dimen>
+    <dimen name="text_margin_top">18dp</dimen>
+    <dimen name="edit_text_width">500dp</dimen>
+    <dimen name="size_button_history">70dp</dimen>
+</resources>
